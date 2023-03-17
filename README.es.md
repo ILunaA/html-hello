@@ -1,3 +1,8 @@
+# Simple Instagram Project By Inti Luna
+
+## FLEXBOX versión
+Usamos Flexbox para crear el mismo sitio web creado en la versión main.
+
 # ![4Geeks Logo](http://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,16) HTML Hello
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/html-hello.git)
