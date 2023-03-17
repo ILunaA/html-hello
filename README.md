@@ -1,3 +1,8 @@
+# Simple Instagram Project By Inti Luna
+
+## Regular hmtl & CSS version
+We used html & CSS to create a website that shows pictures and text in a manner that resembles Instagram.
+
 # ![4Geeks Logo](http://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,16) HTML Hello
 
 The most basic boilerplate for any 4Geeks Academy student, start your very first website from scratch.
