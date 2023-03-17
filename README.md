@@ -1,3 +1,8 @@
+# Simple Instagram Project By Inti Luna
+
+## FLEXBOX version
+We used Flexbox to create a similar website as in the main version.
+
 # ![4Geeks Logo](http://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,16) HTML Hello
 
 The most basic boilerplate for any 4Geeks Academy student, start your very first website from scratch.
